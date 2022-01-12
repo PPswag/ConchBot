@@ -7,14 +7,14 @@
 
 Welcome to the Offical GitHub repository of [Conchbot](https://github.com/ConchDev/ConchBot/)
 
-The source code of the Discord bot ConchBot. The bot is **entirely** open source.
+The source code of the Discord bot ConchBot. This bot is **entirely** open source.
 
 
 
 
 ## License
 
-Also read liscense before doing. Please credit [UnsoughtConch](https://github.com/ConchDev) or [Jerry.py](https://github.com/Jerry-py) if you want use this/self hosting
+Also read license before doing. Please credit [UnsoughtConch](https://github.com/ConchDev) or [Jerry.py](https://github.com/Jerry-py) if you want use this/self hosting
 
 **Not crediting us will get you a copyright strike**
 
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 3. Configure the bot
 
-This is very simple since we set it up for you so this should be easy. Run the command in your terminal
+This is very simple. Run the command in your terminal
 
 ```
 python setup.py
@@ -101,13 +101,13 @@ Steps:
 
 3. Create a PR (Pull Request)
 
-We'll look into the the PR and we ethier approve or disapprove.
+We'll look into the the PR and we either approve or disapprove.
 
 
 
 ## Support 
 
-You can reach out to us in a issue. By creating a issue. 
+You can reach out to us by creating a issue. 
 
 If you need help with a big issue you can join our discord support server below and create a ticket so we can contact you.
 
@@ -117,6 +117,6 @@ If you need help with a big issue you can join our discord support server below 
 
 ## ReadTheDocs (Docs)
 
-There is no docs yet but we will be working it so stay tuned. We'll put a coming soon tag on it
+There is no documentation yet but we are working on it so stay tuned.
 
 ![](https://th.bing.com/th/id/R0e9a9adfa101cdd79c06b36f45629620?rik=DtpSjWwnbEjBng&riu=http%3a%2f%2fwichitaarts.com%2fwp-content%2fuploads%2f2017%2f03%2fshutterstock_285426443.jpg&ehk=Gd3LdnSFNaeYE6YXLcrc3HEaFvOJdNpJM9%2fHfYdnBIQ%3d&risl=&pid=ImgRaw)
